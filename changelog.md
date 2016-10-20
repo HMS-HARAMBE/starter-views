@@ -8,3 +8,4 @@ October 20, 2016:
     - Merged the CI starter and starter-views
     - Completed job 1 Homepage Features
     - Added Hiring Page
+    - Added Shopping Page
