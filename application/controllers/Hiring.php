@@ -19,7 +19,7 @@ class Hiring extends Application {
     public function index() {
         $stuff = file_get_contents('../data/jobs.md');
         $this->data['content'] = $this->parsedown->parse($stuff);
-        $this->render('template-secondary'); 
+        $this->render('template_secondary'); 
     }
 
 }
